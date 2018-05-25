@@ -1,0 +1,40 @@
+header {
+  background: lime;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+nav {
+  background: orange;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.left-item {
+background: yellow;
+float: left;
+width: 75%;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.right-item {
+background-color: cyan;
+float: left;
+width: 25%;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.clearfix {
+clear: both;
+}
+
+footer {
+  background-color: pink;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+body {
+  background-color: red;
+}
